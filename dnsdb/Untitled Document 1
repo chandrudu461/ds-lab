@@ -1,0 +1,20 @@
+sudo /opt/lampp/manager*
+
+
+http://localhost/phpmyadmin/
+
+create database
+
+create tables
+
+insert columns
+
+
+/home/mvsr/Desktop/ds lab/dnsdb
+javac *.java
+
+export export CLASSPATH=$CLASSPATH:mysql.jar
+
+java 'filename'
+
+errors change table name

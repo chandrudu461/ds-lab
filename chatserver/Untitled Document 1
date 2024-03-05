@@ -1,0 +1,5 @@
+javac *.java
+
+java ChatServer 8888
+
+java ChatClient 127.0.0.1 8888
